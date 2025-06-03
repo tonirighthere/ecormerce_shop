@@ -98,7 +98,7 @@ ecormerce_shop/
 
 ## 📸 Demo
 
-![Giao diện trang user](./Client/src/assets/screenshots/user.png)
+![Giao diện trang user]([./Client/src/assets/screenshots/user.png](https://res.cloudinary.com/dg0udrlmx/image/upload/v1748942003/0a9a7a66-0d62-459a-b27e-6cc76ba212f2.png))
 ![Giao diện trang admin](https://res.cloudinary.com/dg0udrlmx/image/upload/v1748941959/1454129b-6e3f-4603-8c7a-b7d9bbb76fe1.png)
 ---
 
