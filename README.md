@@ -99,7 +99,7 @@ ecormerce_shop/
 ## 📸 Demo
 
 ![Giao diện trang user](./Client/src/assets/screenshots/user.png)
-![Giao diện trang admin](./Client/src/assets/screenshots/admin.png)
+![Giao diện trang admin](https://res.cloudinary.com/dg0udrlmx/image/upload/v1748941959/1454129b-6e3f-4603-8c7a-b7d9bbb76fe1.png)
 ---
 
 ## 📄 License
