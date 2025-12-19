@@ -4,6 +4,7 @@ const User = require("../../models/User");
 
 const getAdminStats = async (req, res) => {
   try {
+    
     const totalProducts = await Product.countDocuments();
     console.log("Total Products:", totalProducts);
 
