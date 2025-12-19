@@ -4,7 +4,7 @@ Dự án hệ thống thương mại điện tử gồm hai phần: **Frontend (
 
 ---
 
-## 🚀 Tính năng nổi bật
+##  Tính năng nổi bật
 
 - Đăng nhập/Đăng xuất người dùng và admin
 - Quản lý sản phẩm, đơn hàng, người dùng, slider
@@ -15,7 +15,7 @@ Dự án hệ thống thương mại điện tử gồm hai phần: **Frontend (
 
 ---
 
-## 📦 Cài đặt & Khởi chạy
+##  Cài đặt & Khởi chạy
 
 ### 1. Clone repository
 
@@ -65,7 +65,7 @@ npm run dev
 
 ---
 
-## 📁 Cấu trúc thư mục
+##  Cấu trúc thư mục
 
 ```
 ecormerce_shop/
@@ -85,28 +85,12 @@ ecormerce_shop/
 └── ...
 ```
 
----
-
-## 👤 Đóng góp
-
-1. Fork repo
-2. Tạo nhánh mới (`git checkout -b feature/ten-tinh-nang`)
-3. Commit và push
-4. Tạo Pull Request
-
----
-
-## 📸 Demo
+##  Demo
 
 ![Giao diện trang user](https://res.cloudinary.com/dg0udrlmx/image/upload/v1748942003/0a9a7a66-0d62-459a-b27e-6cc76ba212f2.png)
 ![Giao diện trang admin](https://res.cloudinary.com/dg0udrlmx/image/upload/v1748941959/1454129b-6e3f-4603-8c7a-b7d9bbb76fe1.png)
 ---
 
-## 📄 License
-
-MIT
-
----
 
 ## 🔗 Badge
 
